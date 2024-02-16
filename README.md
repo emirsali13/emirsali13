@@ -1,0 +1,5 @@
+- Hi, I’m Emir Sali
+- I’m interested in Front-End Development
+- I’m currently learning Advanced concepts of ReactJS
+- Reach me - emsali.tech@gmail.com
+- Fun fact: I turn coffee into code
