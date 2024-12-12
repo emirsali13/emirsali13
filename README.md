@@ -1,6 +1,6 @@
 - Hi, I’m Emir Sali - Junior Front-end Developer
-- I’m interested in Front-End Development
+- I'm interested in any kind of Software Development
 - I live in Bulgaria 
-- I’m currently learning the Advanced concepts of ReactJS
+- Learning new technologies everyday
 - Reach me - emsali.tech@gmail.com
-- Fun fact: I turn coffee into code
+
